@@ -11,12 +11,18 @@ The following work items will be iterated in GitHub by CIVICS.com for ECSA.io un
 
 v0.1 of "Legal Architecture" 
 
-* Descrption: This del
+* Descrption: This del (?)
 * Purpose: This deliverable is intended to assist with a Space offering. 
 * Provisos: This deliverable will be very high level, in mostly or entirely outline format and broadly general in nature.  Advice of counsel is recommended for iteration of legal instruments and processes  described in a legal architecture and definite or specific legal components appropriate for operational use are out of scope of this architectural deliverable.
 
+Q: How do we get the legal architecture ready for immediate private round, to midterm public round, to long term network launch?
+
 v0.1 of "Open Source GitHub Production Model" in a form that is usable by ECSA teams
 * Description: This production model will include checklists, a workflow diagram and 
+Milestone: Used by all teams within 1 month
 
 v0.1 of an open-source project to compose and express contracts through collaborative creation with modular components
+
 * Thanks.
+
+Milestone: Participating in MIT legal forum as one of the breakout groups. Q: How can we become a key player in the emerging computational law/computable contracts space?
